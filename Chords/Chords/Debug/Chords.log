@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\jayj5\desktop\codes\c++\cpp\chords\chords\source.cpp(51): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+  Chords.vcxproj -> C:\Users\jayj5\Desktop\Codes\C++\CPP\Chords\Debug\Chords.exe
+  Chords.vcxproj -> C:\Users\jayj5\Desktop\Codes\C++\CPP\Chords\Debug\Chords.pdb (Partial PDB)
