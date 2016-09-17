@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\jayj5\desktop\codes\c++\cpp\lab 2\lab 2\source.cpp(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\jayj5\desktop\codes\c++\cpp\lab 2\lab 2\source.cpp(32): warning C4018: '<': signed/unsigned mismatch
+  Lab 2.vcxproj -> C:\Users\jayj5\Desktop\Codes\C++\CPP\Lab 2\Debug\Lab 2.exe
+  Lab 2.vcxproj -> C:\Users\jayj5\Desktop\Codes\C++\CPP\Lab 2\Debug\Lab 2.pdb (Partial PDB)
