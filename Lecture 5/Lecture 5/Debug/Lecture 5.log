@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\jayj5\desktop\codes\c++\cpp\lecture 5\lecture 5\source.cpp(125): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lecture 5.vcxproj -> C:\Users\jayj5\Desktop\Codes\C++\CPP\Lecture 5\Debug\Lecture 5.exe
+  Lecture 5.vcxproj -> C:\Users\jayj5\Desktop\Codes\C++\CPP\Lecture 5\Debug\Lecture 5.pdb (Partial PDB)
