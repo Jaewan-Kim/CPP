@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\jayj5\desktop\codes\c++\cpp\tictactoe\tictactoe\source.cpp(57): warning C4305: '=': truncation from 'char' to 'bool'
+c:\users\jayj5\desktop\codes\c++\cpp\tictactoe\tictactoe\source.cpp(57): error C2106: '=': left operand must be l-value

@@ -64,4 +64,11 @@ int main()
 	*y = 100;
 	cout << *y;
 	delete y; // deletes what the pointer points to 
+	int x1 = 2000;
+
+	int* y1 = &x;
+	int z1 = 100;
+	*y += 20;
+
+	cout << x1;
 }

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+Source.obj : error LNK2005: _main already defined in rec05.obj
+C:\Users\jayj5\Desktop\Codes\C++\CPP\rec05\Debug\rec05.exe : fatal error LNK1169: one or more multiply defined symbols found
