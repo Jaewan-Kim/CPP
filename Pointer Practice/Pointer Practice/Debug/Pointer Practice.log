@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\jayj5\desktop\codes\c++\cpp\pointer practice\pointer practice\source.cpp(26): warning C4715: 'Person::getCoworker': not all control paths return a value
+  Pointer Practice.vcxproj -> C:\Users\jayj5\Desktop\Codes\C++\CPP\Pointer Practice\Debug\Pointer Practice.exe
+  Pointer Practice.vcxproj -> C:\Users\jayj5\Desktop\Codes\C++\CPP\Pointer Practice\Debug\Pointer Practice.pdb (Partial PDB)

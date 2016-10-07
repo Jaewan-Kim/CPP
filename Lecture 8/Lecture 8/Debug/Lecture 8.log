@@ -1,0 +1,3 @@
+﻿  Source.cpp
+Source.obj : error LNK2019: unresolved external symbol "public: void __thiscall DynArray::resize(int)" (?resize@DynArray@@QAEXH@Z) referenced in function "public: void __thiscall DynArray::push_back(int)" (?push_back@DynArray@@QAEXH@Z)
+C:\Users\jayj5\Desktop\Codes\C++\CPP\Lecture 8\Debug\Lecture 8.exe : fatal error LNK1120: 1 unresolved externals

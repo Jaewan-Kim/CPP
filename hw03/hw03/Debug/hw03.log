@@ -1,0 +1,5 @@
+﻿  hw03.cpp
+c:\users\jayj5\desktop\codes\c++\cpp\hw03\hw03\hw03.cpp(168): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\jayj5\desktop\codes\c++\cpp\hw03\hw03\hw03.cpp(192): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  hw03.vcxproj -> C:\Users\jayj5\Desktop\Codes\C++\CPP\hw03\Debug\hw03.exe
+  hw03.vcxproj -> C:\Users\jayj5\Desktop\Codes\C++\CPP\hw03\Debug\hw03.pdb (Partial PDB)
