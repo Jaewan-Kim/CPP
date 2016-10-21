@@ -1,0 +1,6 @@
+﻿  hw04.cpp
+c:\users\jayj5\desktop\codes\c++\cpp\hw04\hw04\hw04.cpp(160): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\jayj5\desktop\codes\c++\cpp\hw04\hw04\hw04.cpp(185): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\jayj5\desktop\codes\c++\cpp\hw04\hw04\hw04.cpp(269): warning C4018: '<': signed/unsigned mismatch
+  hw04.vcxproj -> C:\Users\jayj5\Desktop\Codes\C++\CPP\hw04\Debug\hw04.exe
+  hw04.vcxproj -> C:\Users\jayj5\Desktop\Codes\C++\CPP\hw04\Debug\hw04.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  rec07.cpp
+c:\users\jayj5\desktop\codes\c++\cpp\rec07\rec07\rec07.cpp(152): warning C4715: 'MILL::loanOut': not all control paths return a value
+  rec07.vcxproj -> C:\Users\jayj5\Desktop\Codes\C++\CPP\rec07\Debug\rec07.exe
+  rec07.vcxproj -> C:\Users\jayj5\Desktop\Codes\C++\CPP\rec07\Debug\rec07.pdb (Partial PDB)
