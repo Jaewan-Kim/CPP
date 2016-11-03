@@ -1,0 +1,5 @@
+﻿  hw06.cpp
+c:\users\jayj5\desktop\codes\c++\cpp\hw06\hw06\hw06.cpp(161): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\jayj5\desktop\codes\c++\cpp\hw06\hw06\hw06.cpp(185): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  hw06.vcxproj -> C:\Users\jayj5\Desktop\Codes\C++\CPP\hw06\Debug\hw06.exe
+  hw06.vcxproj -> C:\Users\jayj5\Desktop\Codes\C++\CPP\hw06\Debug\hw06.pdb (Partial PDB)
